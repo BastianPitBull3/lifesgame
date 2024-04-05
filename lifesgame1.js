@@ -213,3 +213,5 @@ function principal(){
   dibujaTablero(tablero);
 
 }
+
+//Comentario para prueba de git
